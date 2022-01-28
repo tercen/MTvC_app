@@ -2,7 +2,7 @@
   "kind": "Workflow",
   "id": "33fb64086c3295748ed979a87b60c971",
   "isDeleted": false,
-  "rev": "102-bff38f35d9b244e8ddf1f637994a1ae8",
+  "rev": "103-95565f8c70db63d4337e8f71ce6bfee9",
   "description": "Converts a list of peptides into a list of kinases",
   "name": "MTvC_app",
   "createdBy": "Martin",
@@ -17,7 +17,7 @@
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2022-01-11T09:40:21.709471Z"
+    "value": "2022-01-25T19:39:02.283430Z"
   },
   "urls": [
     {
@@ -3875,7 +3875,7 @@
         "kind": "WizardStepModel",
         "namespace": "MTvC",
         "description": "",
-        "appDesignType": "",
+        "appDesignType": "mtvc.c06_super_groups_control",
         "factors": [
           {
             "kind": "MappingFactor",
